@@ -1,10 +1,7 @@
-import { RepositoryList } from "./Components/RepositoryList";
+import { RepositoryList } from './Components/RepositoryList';
 
 export function App() {
-  return (
-        <RepositoryList />
-
-  );
+	return <RepositoryList />;
 }
 
 export default App;
